@@ -48,9 +48,9 @@
 ---
 
 ### 📊 **GitHub Stats**
-![](https://github-readme-stats.vercel.app/api?username=JyotirajM&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=JyotirajM&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&hide_rank=false&rank_icon=github)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=JyotirajM&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JyotirajM&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JyotirajM&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=donut&hide_progress=true)
 
 ---
 
