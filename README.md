@@ -1,8 +1,11 @@
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="gif" width="90%">
+
 <h1 align="center">Hi 👋, I'm Jyotiraj Aditinandan Mahanta</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=700&color=00FFEF&center=true&vCenter=true&width=750&lines=💠+Cloud+%26+DevOps+Engineer;⚙️+Automation+%7C+Infrastructure+as+Code;🐳+Docker+%7C+Kubernetes+%7C+AWS;🚀+Always+Learning+%26+Innovating)](https://git.io/typing-svg)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="sdf" width="100%">
+
 
 ### 🌟 **About Me**
 - 💻 Passionate **DevOps & Cloud Engineer** with expertise in **AWS and GCP**.  
@@ -65,8 +68,10 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=x&logoColor=white&labelColor=1E1E1E)](https://x.com/jyotirajm008)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&labelColor=1E1E1E)](mailto:jyotirajm008@gmail.com)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="sdf" width="100%">
+
 
 [![](https://visitcount.itsvg.in/api?id=JyotirajM&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
