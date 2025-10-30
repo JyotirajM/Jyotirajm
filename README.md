@@ -62,11 +62,13 @@
 
 ---
 
+
 ### 🌍 **Connect with me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&labelColor=1E1E1E)](https://www.linkedin.com/in/jyotiraj-aditinandan-mahanta/)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white&labelColor=1E1E1E)](https://reddit.com/user/Hitesh008)
 [![X](https://img.shields.io/badge/X-black.svg?logo=x&logoColor=white&labelColor=1E1E1E)](https://x.com/jyotirajm008)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&labelColor=1E1E1E)](mailto:jyotirajm008@gmail.com)
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="sdf" width="100%">
 
